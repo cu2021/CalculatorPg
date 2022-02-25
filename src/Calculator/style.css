@@ -1,0 +1,10 @@
+.root{
+    -fx-font-size: 18pt;
+
+
+}
+.label{
+    -fx-font-size: 28pt;
+    -fx-text-fill: white;
+}
+
